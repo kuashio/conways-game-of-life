@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Tue Jan  5 21:48:19 2021
+# Process ID: 15424
+# Current directory: C:/Users/kuash/OneDrive/Documents/AAC/StateEncoding/github repo/Vivado/life/3-arb/gray/encoding
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9908 C:\Users\kuash\OneDrive\Documents\AAC\StateEncoding\github repo\Vivado\life\3-arb\gray\encoding\encoding.xpr
+# Log file: C:/Users/kuash/OneDrive/Documents/AAC/StateEncoding/github repo/Vivado/life/3-arb/gray/encoding/vivado.log
+# Journal file: C:/Users/kuash/OneDrive/Documents/AAC/StateEncoding/github repo/Vivado/life/3-arb/gray/encoding\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/kuash/OneDrive/Documents/AAC/StateEncoding/github repo/Vivado/life/3-arb/gray/encoding/encoding.xpr}
+update_compile_order -fileset sources_1
+reset_project -verbose
