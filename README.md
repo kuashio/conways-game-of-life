@@ -8,4 +8,6 @@ The repository has two mains parts, respectively contained in the following fold
 
 ## Contact
 
+Eduardo Corpeño
+
 You may reach me at kuashio@gmail.com 
